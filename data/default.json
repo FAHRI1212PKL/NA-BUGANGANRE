@@ -1,0 +1,14 @@
+{"groups":[
+{"id":"profil","judul":"Profil singkat","items":[
+["Judul beranda","Desa Bugangan"],
+["Subjudul","Desa persawahan di Kecamatan Kedungwuni, Kabupaten Pekalongan, Jawa Tengah. Data kependudukan, pemerintahan, dan keuangan desa dalam satu tempat."],
+["Tentang","Desa Bugangan berada di Kecamatan Kedungwuni, Kabupaten Pekalongan, Provinsi Jawa Tengah, dengan luas wilayah 0,65201 km² dan tipologi persawahan. Mayoritas penduduknya bekerja sebagai petani. Menurut Papan Monografi Juli 2017, desa ini dihuni 2.656 jiwa dari 705 kepala keluarga dan berada pada tingkat perkembangan swadaya. Situs ini disusun sebagai media pengelolaan dan berbagi pengetahuan tentang desa."]]},
+{"id":"statistik","judul":"Angka utama","items":[["Jiwa","2656"],["Kepala keluarga","705"],["Luas wilayah (km²)","0,65"],["Perangkat desa","5"]]},
+{"id":"umum","judul":"Data umum","items":[["Nama desa","Bugangan"],["Kecamatan","Kedungwuni"],["Kabupaten","Pekalongan"],["Provinsi","Jawa Tengah"],["Kode pos","51173"],["Kode wilayah","2017"],["Tipologi desa","Persawahan"],["Tingkat perkembangan","Swadaya"],["Luas wilayah","0,65201 km²"],["Mayoritas pekerjaan","Petani"],["UMR kabupaten","Rp 1.463.000"],["Kantor desa","Permanen"]]},
+{"id":"batas","judul":"Batas wilayah","items":[["Utara","Tangkil Kulon"],["Selatan","Kemasan"],["Barat","Rengas"],["Timur","Karangdowo"]]},
+{"id":"demografi","judul":"Kependudukan","items":[["Laki-laki","1407"],["Perempuan","1249"],["Usia 0–15 tahun","754"],["Usia 15–65 tahun","1815"],["Usia 65 tahun ke atas","87"]]},
+{"id":"sarpras","judul":"Sarana dan prasarana","items":[["PAUD","1 buah"],["TK","1 buah"],["SD","1 buah"],["Masjid","1 buah"],["Mushola","4 buah"],["Sarana olahraga","3 buah"],["Kesenian/budaya","1 buah"],["Balai pertemuan","1 buah"]]},
+{"id":"personil","judul":"Pemerintah desa","items":[["Kepala Desa","Mustiyadi"],["Sekretaris Desa","Muchamad Taufik"],["Perangkat desa","5 orang"],["Anggota BPD","9 orang"],["Perdes yang ditetapkan","3"]]},
+{"id":"lembaga","judul":"Kelembagaan","items":[["LPM: pengurus / anggota","4 / 6 orang"],["LPM: kegiatan per tahun","3 kegiatan"],["LPM: dana dikelola","Rp 8.977.500"],["PKK: pengurus / anggota","6 / 16 orang"],["PKK: kegiatan per bulan","2 kegiatan"],["PKK: dana dikelola","Rp 22.810.000"],["Bantuan RT dan RW per bulan","Rp 70.000"]]},
+{"id":"keuangan","judul":"Keuangan desa (2017)","items":[["Pendapatan asli desa","Rp 93.500.000"],["Alokasi Dana Desa (ADD)","Rp 296.571.000"],["Bantuan pemerintah (Dana Desa)","Rp 798.485.000"],["Bantuan provinsi","Rp 35.000.000"],["Swadaya/gotong royong","Rp 17.000.000"],["Sumbangan/bantuan lain","Rp 16.981.891"],["Belanja desa","Rp 1.329.203.891"]]}
+]}
